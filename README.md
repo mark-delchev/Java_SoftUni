@@ -1,2 +1,2 @@
 # Java_SoftUni
-Java programming courses in SoftUni
+Homework from Java Programming courses in SoftUni (https://softuni.bg/)
